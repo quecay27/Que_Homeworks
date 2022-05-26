@@ -1,0 +1,33 @@
+body{
+    background-color:white;
+}
+.main{
+    width:350px;
+    height:1000px;
+    padding-top: 60px;
+    padding-left: 30px;
+}
+
+.textcool{
+    color: rgb(18, 71, 247);
+    font-weight:bold;
+    font-size: 40px;
+    padding-left: 20px;
+    padding-top:50px;
+}
+
+.textlife{
+    color:black;
+    padding: 8px 20px;
+}
+
+.textsub{
+    padding-left:20px;
+    padding-bottom: 60px;
+}
+.border{
+    border-left: 4px solid rgb(18, 71, 247);    
+    border-top: 4px solid rgb(18, 71, 247);
+    border-bottom: 4px solid rgb(18, 71, 247);
+}
+
