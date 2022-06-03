@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(26, 29, 34); 
+}
+
+.white{
+    color:white;
+}
+
+.inline{
+    display:inline-block
+}
+
+.center{
+    text-align: center;
+    padding-top: 50px;
+}
+
+.text-home{
+    height:100vh;
+    font-size: 30px;
+    text-align: center;
+    width:250px;
+}
+
+.text-about{
+    padding-left: 150px;
+    height:100vh;
+    font-size: 30px;
+    text-align: center;
+    width:250px;
+}
+
+.text-service{
+    padding-left: 150px;
+    height:100vh;
+    font-size: 30px;
+    text-align: center;
+    width:250px;
+}
+
+.text-team{
+    padding-left: 150px;
+    height:100vh;
+    font-size: 30px;
+    text-align: center;
+    width:250px;
+}
+
+.photo{
+    padding-top: 80px;
+    width: 250px;
+    height:250px;
+}
