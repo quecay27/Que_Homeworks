@@ -27,6 +27,7 @@ body{
     width: 400px;
     overflow: hidden;
     border-radius: 10px;
+    margin-left: -12px;
 }
 
 .item-center{
@@ -34,6 +35,7 @@ body{
     width: 400px;
     overflow: hidden;
     border-radius: 10px;
+    margin-left: 15px;
 }
 
 .item-right{
@@ -41,6 +43,7 @@ body{
     width: 400px;
     overflow: hidden;
     border-radius: 10px;
+    margin-left: 15px;
 }
 
 .item-left img{
