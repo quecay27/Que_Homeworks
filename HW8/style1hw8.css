@@ -75,29 +75,33 @@ body{
 }
 
 .text-left{
-    font-size: 25px;
+    font-size: 28px;
     color: white;
     font-weight: bold;
     position: absolute;
-    margin-top: -140px;
-    margin-left: 15px;
+    margin-top: -76px;
+    margin-left: 20px;
+    text-align: left;
 }
 
 .text-center{
-    font-size: 25px;
+    font-size: 28px;
     color: white;
     font-weight: bold;
     position: absolute;
-    margin-top: -140px;
+    margin-top: -110px;
+    margin-left: 20px;
+    text-align: left;
 }
 
 .text-right{
-    font-size: 25px;
+    font-size: 28px;
     color: white;
     font-weight: bold;
     position: absolute;
-    margin-top: -140px;
-    margin-left: 15px;
+    margin-top: -76px;
+    margin-left: 20px;
+    text-align: left;
     
 }
 
