@@ -1,0 +1,51 @@
+body{
+    background-color: white;
+}
+
+.container-grid{
+    display:grid;
+    width:fit-content;
+    height: fit-content;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    gap:0px;
+}
+
+.item{
+    width:444px;
+    height: 215px;
+}
+
+.pic{
+    width:444px;
+    height: 215px;
+    object-fit: cover;
+}
+
+.textbox{
+    width:400px;
+    height:170px;
+    margin-left: 23px;
+    margin-top: -195px;
+    background-color: rgb(175, 172, 172);
+}
+
+.text{
+    font-size: 16px;
+    color: black;
+    text-align: center;
+    margin-top: 76px;
+}
+
+.absolute {
+    position: absolute;
+}
+
+.hidden {
+    visibility: hidden;
+}
+
+.item:hover .hidden {
+    visibility: visible;
+    transition: 1s;
+}
